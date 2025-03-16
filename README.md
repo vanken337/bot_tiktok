@@ -1,1 +1,1 @@
-# bot_tiktok
+# bot-tiktok
